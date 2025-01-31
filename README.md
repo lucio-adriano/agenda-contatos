@@ -73,7 +73,7 @@ Este projeto é uma aplicação web simples para gerenciar uma agenda de contato
 3. Para gerar o relatório em PDF, clique no botão "Gerar Relatório" na página de listagem de contatos.
 
 ## Estrutura do Projeto
-
+```
 /agenda-contatos/
 └── src/
     └── main/
@@ -96,7 +96,7 @@ Este projeto é uma aplicação web simples para gerenciar uma agenda de contato
             ├── index.html                   # Página inicial (redirecionamento)
             ├── novo.html                    # Página para adicionar um novo contato
             └── style.css                    # Estilos CSS
-
+```
 ## Contribuição
 
 Contribuições são bem-vindas! Siga os passos abaixo:
