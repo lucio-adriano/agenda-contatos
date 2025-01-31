@@ -115,6 +115,6 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 Se tiver dúvidas ou sugestões, entre em contato:
 
-- **GitHub**: [seu-usuario](https://github.com/lucio-adriano)
+- **GitHub**: [Adriano Lucio](https://github.com/lucio-adriano)
 
     
